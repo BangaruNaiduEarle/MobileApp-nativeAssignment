@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645327858798",
+    "project_id": "weddingprojectpavan",
+    "storage_bucket": "weddingprojectpavan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645327858798:android:00ad5245257abba6ac4a7f",
+        "android_client_info": {
+          "package_name": "myweddignpavan.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJW-4Z46L71-hs6nSxHRd3_gQ9oHrlmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
